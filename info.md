@@ -9,7 +9,7 @@ To get a local copy up and running follow these simple steps.
 ### Prerequisites
 Installing the software Python 3.9.2 (Latest version of python tested with project)
   * Install from <a>https://www.python.org/<a>
- Visit website given below to download the Python VS Code Editor
+ * Visit website given below to download the Python VS Code Editor
   * https://code.visualstudio.com/download
 
 <!-- USAGE EXAMPLES -->
